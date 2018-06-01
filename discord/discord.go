@@ -1,5 +1,6 @@
 package discord
 
-func runDiscord() {
+//RunDiscord is used to start discordbot
+func RunDiscord() {
 
 }

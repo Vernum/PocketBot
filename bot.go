@@ -21,6 +21,9 @@ func init() {
 
 func main() {
 	if fDiscord {
-		runDiscord()
+		RunDiscord()
+	}
+	if fIRC {
+
 	}
 }
